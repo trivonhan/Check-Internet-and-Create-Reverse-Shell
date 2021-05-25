@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShellCheckInternet", "ReverseShellCheckInternet\ReverseShellCheckInternet.csproj", "{A6611939-89B1-4DEA-B9D6-4428B93DA3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6611939-89B1-4DEA-B9D6-4428B93DA3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6611939-89B1-4DEA-B9D6-4428B93DA3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6611939-89B1-4DEA-B9D6-4428B93DA3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6611939-89B1-4DEA-B9D6-4428B93DA3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC1B525-991E-48AB-8B2C-997A60724577}
+	EndGlobalSection
+EndGlobal

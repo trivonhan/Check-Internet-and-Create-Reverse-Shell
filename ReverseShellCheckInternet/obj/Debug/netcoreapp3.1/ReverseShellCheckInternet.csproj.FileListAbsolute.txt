@@ -1,0 +1,13 @@
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.deps.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.runtimeconfig.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.runtimeconfig.dev.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.dll
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\bin\Debug\netcoreapp3.1\ReverseShellCheckInternet.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.AssemblyInfoInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.AssemblyInfo.cs
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.csproj.CoreCompileInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.dll
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.genruntimeconfig.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\ReverseShellCheckInternet\ReverseShellCheckInternet\obj\Debug\netcoreapp3.1\ReverseShellCheckInternet.csprojAssemblyReference.cache
